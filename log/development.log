@@ -1,0 +1,24 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-05 22:59:27 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/swytman/.rvm/gems/ruby-2.2.1/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (10.1ms)
+Completed 200 OK in 42ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-05 23:12:48 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/swytman/.rvm/gems/ruby-2.2.1/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-05 23:13:06 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/swytman/.rvm/gems/ruby-2.2.1/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-05 23:13:07 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/swytman/.rvm/gems/ruby-2.2.1/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
