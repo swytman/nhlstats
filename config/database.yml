@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: nhlstats
+  pool: 5
+  host: localhost
+  username: nhl
+  password: nhl123nhl
+  timeout: 5000
